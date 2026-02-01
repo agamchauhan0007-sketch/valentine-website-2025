@@ -5,7 +5,7 @@ FRIEND'S WEBSITE HERE 💝
 
 const CONFIG = {
     // Your friend's name that will appear in the title
-    // Example: "Mark", "Sarah", "Mike"
+    // Example: "Billu", "Akhya Didi", "Rohit"
     FriendName: "Pragya",
 
     // The title that appears in the browser tab
